@@ -5,7 +5,11 @@
 Barbie Girl Lyrics:
 
 [Intro: Lene Nystrøm, René Dif]
+<<<<<<< HEAD
 Heya, Barbie!
+=======
+Heya! Barbie!
+>>>>>>> branch2
 Hi, Ken
 You wanna go for a ride?
 Sure, Ken
